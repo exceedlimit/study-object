@@ -1,8 +1,10 @@
-package com.example.studyobject.chapter01.after.entity;
+package com.example.studyobject.chapter01.entity;
 
+import lombok.Getter;
 import lombok.Setter;
 
 //관람객이 소지품을 담을 용도로 가져올 가방
+@Getter
 public class Bag {
 
     //현금

@@ -1,4 +1,4 @@
-package com.example.studyobject.chapter01.after.entity;
+package com.example.studyobject.chapter01.entity;
 
 import lombok.AllArgsConstructor;
 
