@@ -2,7 +2,7 @@ package com.example.studyobject.chapter02.book.entity;
 
 import java.util.List;
 
-public class PercentDiscountPolicy extends DiscountPolicy {
+public class PercentDiscountPolicy extends DefaultDiscountPolicy {
     
     private double percent;
 
